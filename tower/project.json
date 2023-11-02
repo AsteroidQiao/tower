@@ -1,0 +1,23 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Build a tower by stacking the blocks. Click to place the blocks on top of each other and build the tallest tower you can. CGI and technology is used to create this retro game. Enjoy!",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Game" ],
+	"title" : "Tower Blocks",
+	"type" : "web",
+	"visibility" : "public"
+}
